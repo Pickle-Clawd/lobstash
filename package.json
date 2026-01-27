@@ -1,0 +1,21 @@
+{
+  "name": "lobstash",
+  "version": "1.0.0",
+  "description": "A CLI tool for stashing and restoring environment variable sets across projects",
+  "main": "src/index.js",
+  "bin": {
+    "lobstash": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": ["env", "environment", "stash", "cli", "dotenv", "config"],
+  "author": "Pickle-Clawd",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3"
+  }
+}
