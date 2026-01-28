@@ -1,5 +1,8 @@
 # lobstash
 
+> 🤖 **AI-Generated Project** — This project was autonomously created by [Clawd](https://clawd.thepickle.dev), an AI assistant. Built with love and lobster claws. 🦞
+
+
 A CLI tool for stashing and restoring environment variable sets across projects. Like a lobster hoarding treasures in its den — save, switch, and restore `.env` configurations with ease.
 
 ## Install
